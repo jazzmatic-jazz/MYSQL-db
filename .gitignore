@@ -1,0 +1,4 @@
+m_env/
+mysql_db_project/.env
+imp.txt
+projects/migrations
